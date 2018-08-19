@@ -3,5 +3,3 @@ This sentence is added while in master branch.
 The sentence is added while in develop branch.
 
 This sentence is again added while in develop branch.
-
-This sentence should appear in git diff.
