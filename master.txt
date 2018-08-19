@@ -1,2 +1,1 @@
 This text file is in the master branch.
-This sentence is added to master.txt while in the develop branch.
