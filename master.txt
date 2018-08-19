@@ -4,4 +4,4 @@ The sentence is added while in develop branch.
 
 This sentence is again added while in develop branch.
 
-This sentence should be seen in git diff.
+This sentence should appear in git diff.
