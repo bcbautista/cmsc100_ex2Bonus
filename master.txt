@@ -1,2 +1,1 @@
 This text file is in the master branch.
-The sentence is added while in master branch.
